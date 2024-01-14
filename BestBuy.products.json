@@ -1,0 +1,462 @@
+[{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c169c"
+  },
+  "title": "Smartphone X",
+  "price": 599.99,
+  "description": "Powerful smartphone with advanced features.",
+  "category": "mobile",
+  "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-mini-r1.jpg",
+  "isInCart": true
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c169d"
+  },
+  "title": "Laptop Pro",
+  "price": 1299.99,
+  "description": "High-performance laptop for work and gaming.",
+  "category": "laptop",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RLlKBSwstdypTRDgcYI5tJtLQR9x3A0EUA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c169e"
+  },
+  "title": "Ultra HD TV",
+  "price": 899.99,
+  "description": "Crystal-clear display with smart TV capabilities.",
+  "category": "tv",
+  "img": "https://5.imimg.com/data5/XW/OK/KP/SELLER-91900205/40inch-led-tv-full-hd.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c169f"
+  },
+  "title": "Sport Watch",
+  "price": 199.99,
+  "description": "Water-resistant watch for active lifestyles.",
+  "category": "watch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbE0qgxKpoWW5eESB3imH_yytsS-nqMjhIA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a0"
+  },
+  "title": "Budget Smartphone",
+  "price": 299.99,
+  "description": "Affordable smartphone with decent features.",
+  "category": "mobile",
+  "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-mini-r1.jpg",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a1"
+  },
+  "title": "Gaming Laptop",
+  "price": 1899.99,
+  "description": "Ultimate gaming experience on a high-end laptop.",
+  "category": "laptop",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RLlKBSwstdypTRDgcYI5tJtLQR9x3A0EUA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a2"
+  },
+  "title": "LED TV",
+  "price": 699.99,
+  "description": "Sleek LED TV with excellent picture quality.",
+  "category": "tv",
+  "img": "https://5.imimg.com/data5/XW/OK/KP/SELLER-91900205/40inch-led-tv-full-hd.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a3"
+  },
+  "title": "Classic Watch",
+  "price": 149.99,
+  "description": "Timeless design for a classic wristwatch.",
+  "category": "watch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbE0qgxKpoWW5eESB3imH_yytsS-nqMjhIA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a4"
+  },
+  "title": "Flagship Smartphone",
+  "price": 799.99,
+  "description": "Top-of-the-line smartphone with cutting-edge features.",
+  "category": "mobile",
+  "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-mini-r1.jpg",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a5"
+  },
+  "title": "Convertible Laptop",
+  "price": 1499.99,
+  "description": "Versatile laptop that converts into a tablet.",
+  "category": "laptop",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RLlKBSwstdypTRDgcYI5tJtLQR9x3A0EUA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a6"
+  },
+  "title": "4K Smart TV",
+  "price": 1099.99,
+  "description": "Immersive 4K experience with smart TV functionalities.",
+  "category": "tv",
+  "img": "https://5.imimg.com/data5/XW/OK/KP/SELLER-91900205/40inch-led-tv-full-hd.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a7"
+  },
+  "title": "Fitness Tracker",
+  "price": 79.99,
+  "description": "Track your fitness goals with this smart tracker.",
+  "category": "watch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbE0qgxKpoWW5eESB3imH_yytsS-nqMjhIA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a8"
+  },
+  "title": "Mid-range Smartphone",
+  "price": 399.99,
+  "description": "Balanced features at an affordable price.",
+  "category": "mobile",
+  "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-mini-r1.jpg",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16a9"
+  },
+  "title": "Business Laptop",
+  "price": 1699.99,
+  "description": "Designed for professional use and multitasking.",
+  "category": "laptop",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RLlKBSwstdypTRDgcYI5tJtLQR9x3A0EUA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16aa"
+  },
+  "title": "OLED TV",
+  "price": 1499.99,
+  "description": "Vivid colors and deep contrast with OLED technology.",
+  "category": "tv",
+  "img": "https://5.imimg.com/data5/XW/OK/KP/SELLER-91900205/40inch-led-tv-full-hd.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16ab"
+  },
+  "title": "Fashion Watch",
+  "price": 99.99,
+  "description": "Stylish watch to complement your fashion sense.",
+  "category": "watch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbE0qgxKpoWW5eESB3imH_yytsS-nqMjhIA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16ac"
+  },
+  "title": "Portable Speaker",
+  "price": 149.99,
+  "description": "Wireless speaker for on-the-go music enthusiasts.",
+  "category": "audio",
+  "img": "https://ptron.in/cdn/shop/files/B0C1PLZ2PN.MAIN_2048x2048.jpg?v=1684472539",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16ad"
+  },
+  "title": "External Hard Drive",
+  "price": 79.99,
+  "description": "High-capacity storage for your files and backups.",
+  "category": "storage",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16ae"
+  },
+  "title": "Desktop Computer",
+  "price": 1599.99,
+  "description": "Powerful desktop computer for home or office use.",
+  "category": "computer",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16af"
+  },
+  "title": "Wireless Headphones",
+  "price": 249.99,
+  "description": "Comfortable headphones with wireless connectivity.",
+  "category": "audio",
+  "img": "https://ptron.in/cdn/shop/files/B0C1PLZ2PN.MAIN_2048x2048.jpg?v=1684472539",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b0"
+  },
+  "title": "Tablet",
+  "price": 499.99,
+  "description": "Versatile tablet for entertainment and productivity.",
+  "category": "tablet",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b1"
+  },
+  "title": "Smart Home Hub",
+  "price": 129.99,
+  "description": "Centralized control for your smart home devices.",
+  "category": "smart home",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b2"
+  },
+  "title": "Wireless Mouse",
+  "price": 29.99,
+  "description": "Ergonomic mouse with wireless connectivity.",
+  "category": "computer",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b3"
+  },
+  "title": "Bluetooth Speaker",
+  "price": 99.99,
+  "description": "Compact speaker with Bluetooth technology.",
+  "category": "audio",
+  "img": "https://ptron.in/cdn/shop/files/B0C1PLZ2PN.MAIN_2048x2048.jpg?v=1684472539",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b4"
+  },
+  "title": "Camera Drone",
+  "price": 499.99,
+  "description": "Capture aerial views with this camera-equipped drone.",
+  "category": "gadgets",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b5"
+  },
+  "title": "Printer",
+  "price": 199.99,
+  "description": "Reliable printer for home or small office use.",
+  "category": "office",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b6"
+  },
+  "title": "Gaming Console",
+  "price": 399.99,
+  "description": "Next-gen gaming console for immersive gameplay.",
+  "category": "gaming",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b7"
+  },
+  "title": "Smartwatch",
+  "price": 249.99,
+  "description": "Connectivity and health tracking on your wrist.",
+  "category": "watch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbE0qgxKpoWW5eESB3imH_yytsS-nqMjhIA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b8"
+  },
+  "title": "Car Dash Cam",
+  "price": 149.99,
+  "description": "Record your drives for safety and security.",
+  "category": "gadgets",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16b9"
+  },
+  "title": "Portable Power Bank",
+  "price": 49.99,
+  "description": "Charge your devices on the go with this power bank.",
+  "category": "accessories",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16ba"
+  },
+  "title": "Home Security Camera",
+  "price": 129.99,
+  "description": "Monitor your home remotely with a security camera.",
+  "category": "smart home",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16bb"
+  },
+  "title": "USB-C Docking Station",
+  "price": 99.99,
+  "description": "Expand connectivity options with a USB-C docking station.",
+  "category": "computer",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16bc"
+  },
+  "title": "Wireless Keyboard",
+  "price": 59.99,
+  "description": "Convenient wireless keyboard for comfortable typing.",
+  "category": "computer",
+  "img": "https://housing.com/news/wp-content/uploads/2023/03/14-smart-kitchen-gadgets-to-upgrade-your-cooking-06.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16bd"
+  },
+  "title": "Smartphone X",
+  "price": 599.99,
+  "description": "Powerful smartphone with advanced features.",
+  "category": "mobile",
+  "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-mini-r1.jpg",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16be"
+  },
+  "title": "Laptop Pro",
+  "price": 1299.99,
+  "description": "High-performance laptop for work and gaming.",
+  "category": "laptop",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RLlKBSwstdypTRDgcYI5tJtLQR9x3A0EUA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16bf"
+  },
+  "title": "Ultra HD TV",
+  "price": 899.99,
+  "description": "Crystal-clear display with smart TV capabilities.",
+  "category": "tv",
+  "img": "https://5.imimg.com/data5/XW/OK/KP/SELLER-91900205/40inch-led-tv-full-hd.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16c0"
+  },
+  "title": "Sport Watch",
+  "price": 199.99,
+  "description": "Water-resistant watch for active lifestyles.",
+  "category": "watch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbE0qgxKpoWW5eESB3imH_yytsS-nqMjhIA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16c1"
+  },
+  "title": "Budget Smartphone",
+  "price": 299.99,
+  "description": "Affordable smartphone with decent features.",
+  "category": "mobile",
+  "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-mini-r1.jpg",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16c2"
+  },
+  "title": "Gaming Laptop",
+  "price": 1899.99,
+  "description": "Ultimate gaming experience on a high-end laptop.",
+  "category": "laptop",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RLlKBSwstdypTRDgcYI5tJtLQR9x3A0EUA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16c3"
+  },
+  "title": "LED TV",
+  "price": 699.99,
+  "description": "Sleek LED TV with excellent picture quality.",
+  "category": "tv",
+  "img": "https://5.imimg.com/data5/XW/OK/KP/SELLER-91900205/40inch-led-tv-full-hd.png",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16c4"
+  },
+  "title": "Classic Watch",
+  "price": 149.99,
+  "description": "Timeless design for a classic wristwatch.",
+  "category": "watch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbE0qgxKpoWW5eESB3imH_yytsS-nqMjhIA&usqp=CAU",
+  "isInCart": false
+},
+{
+  "_id": {
+    "$oid": "657bfc8c62bbf33e7e8c16c5"
+  },
+  "title": "Flagship Smartphone",
+  "price": 799.99,
+  "description": "Top-of-the-line smartphone with cutting-edge features.",
+  "category": "mobile",
+  "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-mini-r1.jpg",
+  "isInCart": false
+}]
